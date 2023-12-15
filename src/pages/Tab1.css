@@ -1,0 +1,47 @@
+
+/* Tab1.css */
+
+.header{
+    background-color:  #007bff;
+    color: #007bff;
+}
+.signInContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border :1px solid  slategray;
+    padding: 20px;
+  }
+  
+  .bpa{
+    display: flex;
+    justify-content: center;
+   
+  }
+  .signInLabel {
+    margin-bottom: 10px;
+  }
+  
+  .signInInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid black; /* Atur warna border yang diinginkan */
+    border-radius: 5px;
+  }
+  
+  .signInButton {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff; /* Warna latar belakang tombol */
+    color: #ffffff; /* Warna teks tombol */
+    border: none;
+    border-radius: 5px;
+  }
+
+  .forgotPassword {
+    color: #007bff; /* warna biru */
+   
+    cursor: pointer;
+  }
+  
